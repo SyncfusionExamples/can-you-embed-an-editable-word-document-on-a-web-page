@@ -1,4 +1,4 @@
-# Embed an editable word document on a web page
+# Embed an editable Word document on a web page
 This repository contains an example of how to embed an editable Word document on a web page using the Syncfusion DOCX Editor in a React application. It showcases rich Word document (DOCX) editing and rendering directly within the browser, entirely free from Microsoft Word or Office interop dependencies.
 
 # How to run the application
