@@ -3,7 +3,7 @@ import './App.css';
 import { DocumentEditorContainerComponent, Ribbon } from '@syncfusion/ej2-react-documenteditor';
 import { registerLicense } from '@syncfusion/ej2-base';
 // Register the Syncfusion license
-registerLicense("NxYtGyMROh0gHDMgDk1jXU9FaF5JXGFWfVJpTGpQdk5xdV9DaVZUTWY/P1ZhSXxWdk1gWH5dc3FVRWNaV0R9XEM=");
+registerLicense("");
 DocumentEditorContainerComponent.Inject(Ribbon);
 
 function App() {
